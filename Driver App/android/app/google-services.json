@@ -1,0 +1,234 @@
+{
+  "project_info": {
+    "project_number": "522987428134",
+    "project_id": "taxi-booking-810bf",
+    "storage_bucket": "taxi-booking-810bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522987428134:android:30da69f61ec15bcde809e7",
+        "android_client_info": {
+          "package_name": "com.mighty.taxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522987428134-60n0kin3k6sh27udgr2418liv60b9bot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "fbfd89540bb2c92c0491173694c7e2d943eff53a"
+          }
+        },
+        {
+          "client_id": "522987428134-8rb0hfevsugnckv2c3mdab97ks710s9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "dc6c6a30663b74645ac150b11135c75616616af1"
+          }
+        },
+        {
+          "client_id": "522987428134-f8tfnoahmg0cqlnt5srbgppvkelhcs2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "f375d5f9bbc5d5ef3f484a2c87669d7ad814ae59"
+          }
+        },
+        {
+          "client_id": "522987428134-jkh1q02q0h59cp519tvko6ci92chf91i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "69ba67e5287c53c3a9a44046c5f919dceded7e55"
+          }
+        },
+        {
+          "client_id": "522987428134-k5mpstg7k8dco75gf2qna4rtl72116mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "5bf383f871466a41f2b5aaba9f6b3bafbb28e2d6"
+          }
+        },
+        {
+          "client_id": "522987428134-kcpds5fur8ubk93k811910lc886njg73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "c31034732b82de893339d3eb0fb5802a043d3ef9"
+          }
+        },
+        {
+          "client_id": "522987428134-l2mm0oolrgqghteilucqvb5nmospe0uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "516ff31c777873a0ef93688ba4a1c161bd861d94"
+          }
+        },
+        {
+          "client_id": "522987428134-oib2vto6i288ic32fpmjm65ki052s0nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "b32a0122420f348d8ea96dd90e9b4c2dcdb2540d"
+          }
+        },
+        {
+          "client_id": "522987428134-vtm265ou10jccc8ltp0mc531ig7q0rel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxidriver",
+            "certificate_hash": "39201fd9de1b720d2c1ce9b2a7d0702083addf31"
+          }
+        },
+        {
+          "client_id": "522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa17jfZtkv8Cmno-jECWVBKs5FYdrjq2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522987428134-atlmgus8koagd8j2l4oko4fdnouhjb82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.taxidriver1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522987428134:android:08fd5fbd52aa8928e809e7",
+        "android_client_info": {
+          "package_name": "com.mighty.taxirider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522987428134-0jhteqnar5to6ht41fhpgp5kjv2emo0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "fbfd89540bb2c92c0491173694c7e2d943eff53a"
+          }
+        },
+        {
+          "client_id": "522987428134-6e7v5ckvrsb9vu345a784i4lh3kp1d0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "69ba67e5287c53c3a9a44046c5f919dceded7e55"
+          }
+        },
+        {
+          "client_id": "522987428134-8f3nhelg4t0sfdeiulbu0t0js80gddup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "c31034732b82de893339d3eb0fb5802a043d3ef9"
+          }
+        },
+        {
+          "client_id": "522987428134-8kubbtvrbeq2hfi96njpc3rue1acipp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "39201fd9de1b720d2c1ce9b2a7d0702083addf31"
+          }
+        },
+        {
+          "client_id": "522987428134-e6quknsmst0ociq82rm3m5ha4unjlq2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "6d09ff54243d3448e58f1da8f377773a5cff5017"
+          }
+        },
+        {
+          "client_id": "522987428134-h3uhk1qfvlh2a1gr57kr2b11utis32nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "d465274c2be18f504356623523daaf0e89b83f0d"
+          }
+        },
+        {
+          "client_id": "522987428134-pq3ppvaim5scld2t9bd6mujlr15394d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "5601b206f2d23a37d33a384c31ca797ad81de2c6"
+          }
+        },
+        {
+          "client_id": "522987428134-spstfnedkhlp7vkjorl0soh5qn1e1hsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "5bf383f871466a41f2b5aaba9f6b3bafbb28e2d6"
+          }
+        },
+        {
+          "client_id": "522987428134-ttollptis5hhjkp3qqft9jq2aenef0ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "dc6c6a30663b74645ac150b11135c75616616af1"
+          }
+        },
+        {
+          "client_id": "522987428134-uk10t7dge2bjrrqmnbbvrf58up2704ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.taxirider",
+            "certificate_hash": "a4deca8c2eb20e4ac473a4113c3c89676b490049"
+          }
+        },
+        {
+          "client_id": "522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa17jfZtkv8Cmno-jECWVBKs5FYdrjq2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522987428134-atlmgus8koagd8j2l4oko4fdnouhjb82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.taxidriver1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

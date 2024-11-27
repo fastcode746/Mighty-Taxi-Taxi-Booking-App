@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "522987428134",
+    "project_id": "taxi-booking-810bf",
+    "storage_bucket": "taxi-booking-810bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522987428134:android:30da69f61ec15bcde809e7",
+        "android_client_info": {
+          "package_name": "com.mighty.taxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa17jfZtkv8Cmno-jECWVBKs5FYdrjq2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522987428134-atlmgus8koagd8j2l4oko4fdnouhjb82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.taxidriver1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522987428134:android:08fd5fbd52aa8928e809e7",
+        "android_client_info": {
+          "package_name": "com.mighty.taxirider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa17jfZtkv8Cmno-jECWVBKs5FYdrjq2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522987428134-atlmgus8koagd8j2l4oko4fdnouhjb82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.taxidriver1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
